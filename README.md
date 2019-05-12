@@ -1,6 +1,8 @@
 # starbase
 
-> A Vue.js project
+Select your Star Wars team by clicking on the shapes :smiley:
+s
+[Starbase link](https://www.sw-chargen.herokuapp.com)
 
 ## Build Setup
 
