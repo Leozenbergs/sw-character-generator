@@ -6,7 +6,7 @@
     <div class="col-md-12">
       <Character v-for="(id, index) in initial_ids" :id="id" :key="index"/>
     </div>
-    
+
   </div>
 </template>
 
