@@ -1,7 +1,7 @@
 # starbase
 
-Select your Star Wars team by clicking on the shapes :smiley:
-s
+Select your Star Wars team by clicking on the shapes :sunglasses:
+
 [Starbase link](https://www.sw-chargen.herokuapp.com)
 
 ## Build Setup
