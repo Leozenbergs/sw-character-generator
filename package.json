@@ -1,5 +1,5 @@
 {
-  "name": "starbase",
+  "name": "sw-chargen",
   "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "",
@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "start": "node server.js",
-    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
+    "build": "node dist/build.js",
     "postinstall": "if test \"$NODE_ENV\" = \"production\" ; then npm run build ; fi "
   },
   "dependencies": {
@@ -34,9 +34,5 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
-  },
-  "engines": {
-    "node": "10.15.1",
-    "npm": "6,4,1"
   }
 }
